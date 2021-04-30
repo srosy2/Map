@@ -1,2 +1,2 @@
-# Map.github.io
+# Map
  Map with taxi prediction
